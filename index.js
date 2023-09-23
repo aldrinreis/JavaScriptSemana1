@@ -7,7 +7,6 @@ var num3 = parseInt(prompt("Digite o número 3: "));
 // Calcule a soma e a média
 var soma = num1 + num2 + num3;
 var media = soma / 3;
-
 // Mostre na tela o valor da soma e média
 console.log("A soma é: ", soma);
 console.log("A média é: ", media);
